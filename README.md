@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm a skilled software engineer leveraging extensive experience with diverse technologies to design, develop, and deploy effective applications. Highly adaptable and always learning.
+
+
 <!--
 **kalinichenko88/kalinichenko88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
