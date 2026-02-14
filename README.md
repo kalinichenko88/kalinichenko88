@@ -20,7 +20,9 @@
 
 ## About Me
 
-Senior Frontend Engineer with **10+ years** of experience building scalable web applications. I specialize in modern JavaScript/TypeScript ecosystems with a strong full-stack background. Passionate about clean architecture, performance optimization, and developer experience.
+Senior Frontend Engineer with **10+ years** shipping production web applications. Deep expertise in React and TypeScript ecosystems, backed by full-stack experience with Node.js and NestJS. 
+
+I've navigated the full evolution of frontend — from jQuery and Angular.js to modern component architectures — and I bring that perspective to building performant, maintainable systems.
 
 <!-- 🟢 **Open to new opportunities** — remote or relocation-friendly -->
 
