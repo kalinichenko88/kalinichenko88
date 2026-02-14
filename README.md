@@ -63,17 +63,6 @@ Senior Frontend Engineer with **10+ years** of experience building scalable web 
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kalinichenko88&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=2D3748&icon_color=4A90D9&text_color=4A5568" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalinichenko88&layout=compact&hide_border=true&bg_color=00000000&title_color=2D3748&text_color=4A5568&langs_count=8" height="165" />
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D3748,100:4A90D9&height=100&section=footer" width="100%" />
