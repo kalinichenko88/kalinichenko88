@@ -20,9 +20,13 @@
 
 ## About Me
 
-Senior Frontend Engineer with **10+ years** shipping production web applications. Deep expertise in React and TypeScript ecosystems, backed by full-stack experience with Node.js and NestJS. 
+Senior Frontend Engineer at [Apliteni](https://github.com/apliteni) with 10+ years of production experience across React, TypeScript, and Node.js. Currently focused on AI-assisted development workflows and building open-source tools.
 
-I've navigated the full evolution of frontend — from jQuery and Angular.js to modern component architectures — and I bring that perspective to building performant, maintainable systems.
+## What I'm Building
+ 
+- 🤖 **[ai-digest](https://github.com/kalinichenko88/ai-digest)** — Automated tech news digest powered by Claude Code + MCP. Collects RSS feeds and GitHub releases, deduplicates and summarizes into a personalized daily digest
+- 💰 **[Obsidian Budget Planner](https://github.com/kalinichenko88/obsidian-budget-planner-plugin)** — Community plugin for budget tracking inside Obsidian, growing user base
+- ⚡ **Claude Code Skills** — Custom AI workflows for component scaffolding, code review, and spec-driven development
 
 <!-- 🟢 **Open to new opportunities** — remote or relocation-friendly -->
 
@@ -53,15 +57,6 @@ I've navigated the full evolution of frontend — from jQuery and Angular.js to 
     <img src="https://skillicons.dev/icons?i=git,docker,github,githubactions,vscode,neovim,webpack,vite&theme=light&perline=9" />
   </a>
 </p>
-
----
-
-## What I'm Working On
-
-<!-- - 🔭 Building a **personal news digest** app — NestJS + PostgreSQL + pgvector + React -->
-- 🛠️ Maintaining **[Obsidian Budget Planner](https://github.com/kalinichenko88/obsidian-budget-planner-plugin)** — a community plugin with growing adoption
-- 🌐 Continuously evolving **[kalinichenko.dev](https://kalinichenko.dev)** — built with Astro
-- ⚡ Exploring AI-assisted dev workflows with Claude Code
 
 ---
 
