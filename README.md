@@ -20,13 +20,14 @@
 
 ## About Me
 
-Senior Frontend Engineer at [Apliteni](https://github.com/apliteni) with 10+ years of production experience across React, TypeScript, and Node.js. Currently focused on AI-assisted development workflows and building open-source tools.
+Senior Frontend Engineer at [Apliteni](https://github.com/apliteni) with 10+ years of production experience across React, TypeScript, and Node.js. I build frontend systems for a large self-hosted product and spend the rest of my time on developer tools, Obsidian workflows, and AI-assisted automation.
 
 ## What I'm Building
- 
-- 🤖 **[ai-digest](https://github.com/kalinichenko88/ai-digest)** — Automated tech news digest powered by Claude Code + MCP. Collects RSS feeds and GitHub releases, deduplicates and summarizes into a personalized daily digest
-- 💰 **[Obsidian Budget Planner](https://github.com/kalinichenko88/obsidian-budget-planner-plugin)** — Community plugin for budget tracking inside Obsidian, growing user base
-- ⚡ **Claude Code Skills** — Custom AI workflows for component scaffolding, code review, and spec-driven development
+
+- 📚 **[VaultMD](https://github.com/kalinichenko88/vaultmd)** — Headless markdown-vault data layer for Bun with CRUD over `.md` notes, a derived SQLite index, backlinks, and keyword search
+- 🤖 **[Telegram Agent Kit](https://github.com/kalinichenko88/telegram-agent-kit)** — Runtime-agnostic ESM library for wiring LLM agents to Telegram bots with injectable Bot API interfaces
+- 🗞️ **[AI Digest](https://github.com/kalinichenko88/ai-digest)** — Automated tech news digest powered by Claude Code + MCP. Collects RSS feeds and GitHub releases, deduplicates, and summarizes into a personalized Markdown digest
+- 💰 **[Obsidian Budget Planner](https://github.com/kalinichenko88/obsidian-budget-planner-plugin)** — Minimalist budget planning plugin for Obsidian, built around markdown code blocks inside notes
 
 <!-- 🟢 **Open to new opportunities** — remote or relocation-friendly -->
 
