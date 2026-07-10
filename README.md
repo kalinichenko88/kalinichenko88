@@ -39,7 +39,7 @@ Senior Frontend Engineer at [Apliteni](https://github.com/apliteni) with 10+ yea
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,vue,nuxt,nextjs,html,css,sass&theme=light&perline=9" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,vue,nuxt,nextjs,astro,html,css,sass,tailwind&theme=light&perline=9" />
   </a>
 </p>
 
@@ -47,7 +47,7 @@ Senior Frontend Engineer at [Apliteni](https://github.com/apliteni) with 10+ yea
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,redis,graphql&theme=light&perline=9" />
+    <img src="https://skillicons.dev/icons?i=nodejs,bun,nestjs,postgres,sqlite,redis,graphql&theme=light&perline=9" />
   </a>
 </p>
 
@@ -55,7 +55,7 @@ Senior Frontend Engineer at [Apliteni](https://github.com/apliteni) with 10+ yea
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,github,githubactions,vscode,neovim,webpack,vite&theme=light&perline=9" />
+    <img src="https://skillicons.dev/icons?i=git,docker,github,githubactions,vscode,neovim,webpack,vite,vitest,md&theme=light&perline=9" />
   </a>
 </p>
 
