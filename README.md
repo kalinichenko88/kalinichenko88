@@ -25,7 +25,7 @@ Senior Frontend Engineer at [Apliteni](https://github.com/apliteni) with 10+ yea
 ## What I'm Building
 
 - 📚 **[VaultMD](https://github.com/kalinichenko88/vaultmd)** — Headless markdown-vault data layer for Bun with CRUD over `.md` notes, a derived SQLite index, backlinks, and keyword search
-- 🤖 **[Telegram Agent Kit](https://github.com/kalinichenko88/telegram-agent-kit)** — Runtime-agnostic ESM library for wiring LLM agents to Telegram bots with injectable Bot API interfaces
+- 🤖 **[Telegram Agent Kit](https://github.com/kalinichenko88/telegram-agent-kit)** — Runtime-agnostic ESM library for wiring LLM agents to Telegram, with zero core dependencies, Markdown-to-HTML rendering, live draft streaming, and injectable Bot API interfaces
 - 🗞️ **[AI Digest](https://github.com/kalinichenko88/ai-digest)** — Automated tech news digest powered by Claude Code + MCP. Collects RSS feeds and GitHub releases, deduplicates, and summarizes into a personalized Markdown digest
 - 💰 **[Obsidian Budget Planner](https://github.com/kalinichenko88/obsidian-budget-planner-plugin)** — Minimalist budget planning plugin for Obsidian, built around markdown code blocks inside notes
 
