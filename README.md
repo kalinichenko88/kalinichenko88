@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D3748,100:4A90D9&height=220&section=header&text=Ivan%20Kalinichenko&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Senior%20Frontend%20Engineer%20%7C%20Full%20Stack%20Background&descSize=16&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D3748,100:4A90D9&height=220&section=header&text=Ivan%20Kalinichenko&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20Agent%20Systems%20%7C%20Full-Stack%20Engineering&descSize=16&descAlignY=55&descAlign=50" width="100%" alt="Ivan Kalinichenko — AI Agent Systems and Full-Stack Engineering" />
 
 <!-- TAGLINE -->
 <p>
@@ -20,34 +20,44 @@
 
 ## About Me
 
-Senior Frontend Engineer at [Apliteni](https://github.com/apliteni) with 10+ years of production experience across React, TypeScript, and Node.js. I build frontend systems for a large self-hosted product and spend the rest of my time on developer tools, Obsidian workflows, and AI-assisted automation.
+I design and build production systems around AI agents—and the infrastructure they run on. My focus includes multi-agent runtimes, MCP servers, long-term memory layers, model routing and failover, and Telegram and Discord integrations.
 
-## What I'm Building
+I bring 15+ years of production experience across frontend and full-stack development. I currently work as a Senior Frontend Engineer at [Apliteni](https://github.com/apliteni), building frontend systems for a large self-hosted product.
 
+## What I Work On
+
+- **AI infrastructure and agent systems** — Agent runtimes, MCP servers, memory layers, model routing, failover, and chat integrations
+- **0→1 full-stack products** — Backend, frontend, billing, email, privacy, infrastructure, and documentation
+- **Frontend modernization and platforms** — Legacy migrations, design systems, component libraries, testing, and build infrastructure
+
+## Selected Projects
+
+- 🤖 **[Telegram Agent Kit](https://github.com/kalinichenko88/telegram-agent-kit)** — Runtime-agnostic ESM library for wiring LLM agents to Telegram with a zero-dependency core, Markdown-to-HTML rendering, live draft streaming, and a turn-loop bridge
 - 📚 **[VaultMD](https://github.com/kalinichenko88/vaultmd)** — Headless markdown-vault data layer for Bun with CRUD over `.md` notes, a derived SQLite index, backlinks, and keyword search
-- 🤖 **[Telegram Agent Kit](https://github.com/kalinichenko88/telegram-agent-kit)** — Runtime-agnostic ESM library for wiring LLM agents to Telegram bots with injectable Bot API interfaces
-- 🗞️ **[AI Digest](https://github.com/kalinichenko88/ai-digest)** — Automated tech news digest powered by Claude Code + MCP. Collects RSS feeds and GitHub releases, deduplicates, and summarizes into a personalized Markdown digest
+- 🗞️ **[AI Digest](https://github.com/kalinichenko88/ai-digest)** — Automated tech news digest powered by Claude Code and MCP that collects, deduplicates, and summarizes RSS feeds and GitHub releases
 - 💰 **[Obsidian Budget Planner](https://github.com/kalinichenko88/obsidian-budget-planner-plugin)** — Minimalist budget planning plugin for Obsidian, built around markdown code blocks inside notes
-
-<!-- 🟢 **Open to new opportunities** — remote or relocation-friendly -->
 
 ---
 
 ## Tech Stack
 
-**Frontend — Core**
+**AI & Agent Systems**
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,vue,nuxt,nextjs,astro,html,css,sass,tailwind&theme=light&perline=9" />
-  </a>
-</p>
+`LLM agents` · `MCP` · `Claude Code` · `Agent memory` · `Model routing` · `Telegram Bot API`
 
 **Backend & Data**
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,bun,nestjs,postgres,sqlite,redis,graphql&theme=light&perline=9" />
+    <img src="https://skillicons.dev/icons?i=nodejs,bun,nestjs,postgres,sqlite,redis,graphql&theme=light&perline=9" alt="Node.js, Bun, NestJS, PostgreSQL, SQLite, Redis, and GraphQL" />
+  </a>
+</p>
+
+**Frontend**
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,js,vue,nuxt,nextjs,astro,html,css,sass,tailwind&theme=light&perline=9" alt="React, TypeScript, JavaScript, Vue, Nuxt, Next.js, Astro, HTML, CSS, Sass, and Tailwind CSS" />
   </a>
 </p>
 
@@ -55,7 +65,7 @@ Senior Frontend Engineer at [Apliteni](https://github.com/apliteni) with 10+ yea
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,github,githubactions,vscode,neovim,webpack,vite,vitest,md&theme=light&perline=9" />
+    <img src="https://skillicons.dev/icons?i=git,docker,github,githubactions,vscode,neovim,webpack,vite,vitest,md&theme=light&perline=9" alt="Git, Docker, GitHub, GitHub Actions, VS Code, Neovim, Webpack, Vite, Vitest, and Markdown" />
   </a>
 </p>
 
@@ -63,6 +73,6 @@ Senior Frontend Engineer at [Apliteni](https://github.com/apliteni) with 10+ yea
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D3748,100:4A90D9&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D3748,100:4A90D9&height=100&section=footer" width="100%" alt="" />
 
 </div>
