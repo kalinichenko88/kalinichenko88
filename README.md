@@ -20,15 +20,17 @@
 
 ## About Me
 
-Since late 2025, I have worked intensively with agentic coding tools, especially Claude Code and Codex. Since February 2026, my work has focused entirely on building new projects with these workflows and developing AI infrastructure: agents, MCP servers, tools, harnesses, long-term memory, and model routing and failover.
+I build AI agent systems and the infrastructure they run on.
 
-I bring 15+ years of production experience across frontend and full-stack development, including legacy migrations, design systems, component libraries, testing, and build infrastructure.
+Since late 2025, I've worked daily with agentic coding tools, mainly Claude Code and Codex. Since February 2026, my work has focused on new products built with these workflows and on AI agent infrastructure.
+
+My background includes 15+ years of production experience in frontend and full-stack development: legacy migrations, design systems, component libraries, testing, and build infrastructure.
 
 ## What I Work On
 
-- **Agentic software development** — Claude Code and Codex workflows for building, reviewing, and maintaining software
-- **AI infrastructure and agent systems** — Agent runtimes, MCP servers, tools, harnesses, memory layers, model routing, failover, and chat integrations
-- **0→1 full-stack products** — Backend, frontend, billing, email, privacy, infrastructure, and documentation
+- **Agentic development** — Claude Code and Codex workflows for building, reviewing, and maintaining code
+- **AI agent infrastructure** — Multi-agent runtimes and harnesses, MCP servers and agent tools, long-term memory, model routing and failover, and Telegram and Discord integrations
+- **0→1 full-stack products** — Backend, frontend, billing, email deliverability, GDPR/privacy, infrastructure, and documentation
 
 ## Selected Projects
 
@@ -43,7 +45,7 @@ I bring 15+ years of production experience across frontend and full-stack develo
 
 **AI & Agent Systems**
 
-`LLM agents` · `MCP` · `Claude Code` · `Codex` · `Agent tools` · `Agent harnesses` · `Agent memory` · `Model routing`
+`Claude Code` · `Codex` · `MCP` · `Multi-agent runtimes` · `Agent tools` · `Harnesses` · `Long-term memory` · `Model routing & failover`
 
 **Backend & Data**
 
