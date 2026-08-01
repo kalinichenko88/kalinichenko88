@@ -20,15 +20,15 @@
 
 ## About Me
 
-I design and build production systems around AI agents—and the infrastructure they run on. My focus includes multi-agent runtimes, MCP servers, long-term memory layers, model routing and failover, and Telegram and Discord integrations.
+Since late 2025, I have worked intensively with agentic coding tools, especially Claude Code and Codex. Since February 2026, my work has focused entirely on building new projects with these workflows and developing AI infrastructure: agents, MCP servers, tools, harnesses, long-term memory, and model routing and failover.
 
-I bring 15+ years of production experience across frontend and full-stack development. I currently work as a Senior Frontend Engineer at [Apliteni](https://github.com/apliteni), building frontend systems for a large self-hosted product.
+I bring 15+ years of production experience across frontend and full-stack development, including legacy migrations, design systems, component libraries, testing, and build infrastructure.
 
 ## What I Work On
 
-- **AI infrastructure and agent systems** — Agent runtimes, MCP servers, memory layers, model routing, failover, and chat integrations
+- **Agentic software development** — Claude Code and Codex workflows for building, reviewing, and maintaining software
+- **AI infrastructure and agent systems** — Agent runtimes, MCP servers, tools, harnesses, memory layers, model routing, failover, and chat integrations
 - **0→1 full-stack products** — Backend, frontend, billing, email, privacy, infrastructure, and documentation
-- **Frontend modernization and platforms** — Legacy migrations, design systems, component libraries, testing, and build infrastructure
 
 ## Selected Projects
 
@@ -43,7 +43,7 @@ I bring 15+ years of production experience across frontend and full-stack develo
 
 **AI & Agent Systems**
 
-`LLM agents` · `MCP` · `Claude Code` · `Agent memory` · `Model routing` · `Telegram Bot API`
+`LLM agents` · `MCP` · `Claude Code` · `Codex` · `Agent tools` · `Agent harnesses` · `Agent memory` · `Model routing`
 
 **Backend & Data**
 
